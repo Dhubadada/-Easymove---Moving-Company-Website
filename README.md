@@ -1,22 +1,26 @@
-# Easymove - Moving Company Website
+# Easymove - Professional Moving Services Website
 
-A modern, responsive website for a professional moving services company.
-🎥 **[Watch the Demo Video](#)** | 💻 [Live Preview](#)  
+🚀 A modern, responsive website for a moving company with smooth animations and interactive elements.
 
-<video src="Easymove - Professional Moving Services.mp4" controls width="100%"></video>  
-## Features
-- Responsive design
-- Animated elements
-- Interactive contact form
-- Services showcase
-- Clean, warm aesthetic
+## 🎥 Video Demo
+[![Easymove Website Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Demo)](https://youtube.com/watch?v=YOUR_VIDEO_ID)  
+*(Click the image above to watch the full demo video)*
 
-## Technologies Used
-- HTML5
-- CSS3 (with CSS Variables)
-- JavaScript (minimal)
-- Font Awesome Icons
-- Google Fonts
-- AOS (Animate On Scroll) Library
-## Installation
-Just clone and open index.html in your browser - no build process required!
+## ✨ Key Features
+- **Responsive Design**: Works flawlessly on all devices
+- **Animated Elements**: Smooth scroll animations using AOS library
+- **Interactive Contact Form**: Client-friendly quote request system
+- **Services Showcase**: Clean presentation of moving services
+- **Modern Aesthetic**: Warm color scheme and professional visuals
+
+## 💻 Technologies Used
+| Frontend       | Libraries/Tools      |
+|----------------|----------------------|
+| HTML5          | Font Awesome Icons   |
+| CSS3           | Google Fonts         |
+| JavaScript     | AOS Animation Library|
+
+## 🛠️ Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/easymove-moving-company-website.git
