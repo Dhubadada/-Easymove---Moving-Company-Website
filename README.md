@@ -2,9 +2,10 @@
 
 🚀 A modern, responsive website for a moving company with smooth animations and interactive elements.
 
-## 🎥 Video Demo
-[![Easymove Website Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Demo)](https://youtube.com/watch?v=YOUR_VIDEO_ID)  
-*(Click the image above to watch the full demo video)*
+<img width="1364" height="634" alt="image" src="https://github.com/user-attachments/assets/8e9a11dc-b498-4bb1-b3d6-bdd2c559d432" />
+<img width="1366" height="638" alt="image" src="https://github.com/user-attachments/assets/dea6538c-6e8b-46a0-9d2a-604d8eee4f7f" />
+
+
 
 ## ✨ Key Features
 - **Responsive Design**: Works flawlessly on all devices
